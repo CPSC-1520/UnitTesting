@@ -6,7 +6,7 @@ If you'd like to manually run your tests (e.g. if they didn't run automatically 
 Use the change directory command (`cd`) to get **inside** of the automated test folder:
 ![cd](https://github.com/CPSC-1520/UnitTesting/assets/55507008/764e5e9f-d829-47ec-a6cf-7848eca644d7)
 
-# Install NPM
+# Install dependencies
 Run the `npm install` command:
 ![install](https://github.com/CPSC-1520/UnitTesting/assets/55507008/93b1f573-c715-4981-821e-295cb807aacf)
 
